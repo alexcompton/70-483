@@ -25,6 +25,7 @@ namespace ImplicitlyTypedLocalVariables
             var collection = new Dictionary<String, Single>() { { "Alex", 4.0f }, { "bill", 5.0f } };
             ShowVariableType(collection);
 
+            // this is very useful for this it automatically infers the type of each element inside the colection
             foreach (var item in collection)
             {
                 ShowVariableType(item);
