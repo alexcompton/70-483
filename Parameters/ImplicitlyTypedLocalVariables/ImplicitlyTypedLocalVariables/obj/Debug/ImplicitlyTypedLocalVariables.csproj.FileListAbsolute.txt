@@ -1,0 +1,6 @@
+C:\Users\alexc_000\Documents\GitHub\70-483\Parameters\ImplicitlyTypedLocalVariables\ImplicitlyTypedLocalVariables\bin\Debug\ImplicitlyTypedLocalVariables.exe.config
+C:\Users\alexc_000\Documents\GitHub\70-483\Parameters\ImplicitlyTypedLocalVariables\ImplicitlyTypedLocalVariables\bin\Debug\ImplicitlyTypedLocalVariables.exe
+C:\Users\alexc_000\Documents\GitHub\70-483\Parameters\ImplicitlyTypedLocalVariables\ImplicitlyTypedLocalVariables\bin\Debug\ImplicitlyTypedLocalVariables.pdb
+C:\Users\alexc_000\Documents\GitHub\70-483\Parameters\ImplicitlyTypedLocalVariables\ImplicitlyTypedLocalVariables\obj\Debug\ImplicitlyTypedLocalVariables.csprojResolveAssemblyReference.cache
+C:\Users\alexc_000\Documents\GitHub\70-483\Parameters\ImplicitlyTypedLocalVariables\ImplicitlyTypedLocalVariables\obj\Debug\ImplicitlyTypedLocalVariables.exe
+C:\Users\alexc_000\Documents\GitHub\70-483\Parameters\ImplicitlyTypedLocalVariables\ImplicitlyTypedLocalVariables\obj\Debug\ImplicitlyTypedLocalVariables.pdb

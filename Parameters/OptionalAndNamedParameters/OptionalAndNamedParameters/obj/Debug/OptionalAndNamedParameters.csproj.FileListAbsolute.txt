@@ -1,0 +1,6 @@
+C:\Users\alexc_000\Documents\GitHub\70-483\Parameters\OptionalAndNamedParameters\OptionalAndNamedParameters\bin\Debug\OptionalAndNamedParameters.exe.config
+C:\Users\alexc_000\Documents\GitHub\70-483\Parameters\OptionalAndNamedParameters\OptionalAndNamedParameters\bin\Debug\OptionalAndNamedParameters.exe
+C:\Users\alexc_000\Documents\GitHub\70-483\Parameters\OptionalAndNamedParameters\OptionalAndNamedParameters\bin\Debug\OptionalAndNamedParameters.pdb
+C:\Users\alexc_000\Documents\GitHub\70-483\Parameters\OptionalAndNamedParameters\OptionalAndNamedParameters\obj\Debug\OptionalAndNamedParameters.csprojResolveAssemblyReference.cache
+C:\Users\alexc_000\Documents\GitHub\70-483\Parameters\OptionalAndNamedParameters\OptionalAndNamedParameters\obj\Debug\OptionalAndNamedParameters.exe
+C:\Users\alexc_000\Documents\GitHub\70-483\Parameters\OptionalAndNamedParameters\OptionalAndNamedParameters\obj\Debug\OptionalAndNamedParameters.pdb
