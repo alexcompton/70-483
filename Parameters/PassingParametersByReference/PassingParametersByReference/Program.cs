@@ -33,7 +33,7 @@ namespace PassingParametersByReference
             Console.WriteLine(s1 + " " + s2);
             Swap(ref s1, ref s2);
             Console.WriteLine(s1 + " " + s2);
-            
+
             // same as before just with ints
             Console.WriteLine(x + " " + y);
             Swap(ref x, ref y);
@@ -62,7 +62,7 @@ namespace PassingParametersByReference
         /// <param name="x"></param>
         private static void GetValX(out int x)
         {
- 	        x = 10;
+            x = 10;
         }
 
         /// <summary>
@@ -71,7 +71,7 @@ namespace PassingParametersByReference
         /// <param name="x"></param>
         private static void GetValY(ref int x)
         {
- 	        x += 10;
+            x += 10;
         }
     }
 }

@@ -1,0 +1,6 @@
+C:\Users\alexc_000\Documents\GitHub\70-483\Parameters\PassingVariableNumberOfArguments\PassingVariableNumberOfArguments\bin\Debug\PassingVariableNumberOfArguments.exe.config
+C:\Users\alexc_000\Documents\GitHub\70-483\Parameters\PassingVariableNumberOfArguments\PassingVariableNumberOfArguments\bin\Debug\PassingVariableNumberOfArguments.exe
+C:\Users\alexc_000\Documents\GitHub\70-483\Parameters\PassingVariableNumberOfArguments\PassingVariableNumberOfArguments\bin\Debug\PassingVariableNumberOfArguments.pdb
+C:\Users\alexc_000\Documents\GitHub\70-483\Parameters\PassingVariableNumberOfArguments\PassingVariableNumberOfArguments\obj\Debug\PassingVariableNumberOfArguments.csprojResolveAssemblyReference.cache
+C:\Users\alexc_000\Documents\GitHub\70-483\Parameters\PassingVariableNumberOfArguments\PassingVariableNumberOfArguments\obj\Debug\PassingVariableNumberOfArguments.exe
+C:\Users\alexc_000\Documents\GitHub\70-483\Parameters\PassingVariableNumberOfArguments\PassingVariableNumberOfArguments\obj\Debug\PassingVariableNumberOfArguments.pdb
