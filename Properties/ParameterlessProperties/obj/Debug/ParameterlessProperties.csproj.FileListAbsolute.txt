@@ -1,0 +1,12 @@
+c:\users\alexc_000\documents\visual studio 2012\Properties\ParameterlessProperties\bin\Debug\ParameterlessProperties.exe.config
+c:\users\alexc_000\documents\visual studio 2012\Properties\ParameterlessProperties\bin\Debug\ParameterlessProperties.exe
+c:\users\alexc_000\documents\visual studio 2012\Properties\ParameterlessProperties\bin\Debug\ParameterlessProperties.pdb
+c:\users\alexc_000\documents\visual studio 2012\Properties\ParameterlessProperties\obj\Debug\ParameterlessProperties.csprojResolveAssemblyReference.cache
+c:\users\alexc_000\documents\visual studio 2012\Properties\ParameterlessProperties\obj\Debug\ParameterlessProperties.exe
+c:\users\alexc_000\documents\visual studio 2012\Properties\ParameterlessProperties\obj\Debug\ParameterlessProperties.pdb
+C:\Users\alexc_000\Documents\GitHub\70-483\Properties\ParameterlessProperties\bin\Debug\ParameterlessProperties.exe.config
+C:\Users\alexc_000\Documents\GitHub\70-483\Properties\ParameterlessProperties\obj\Debug\ParameterlessProperties.exe
+C:\Users\alexc_000\Documents\GitHub\70-483\Properties\ParameterlessProperties\obj\Debug\ParameterlessProperties.pdb
+C:\Users\alexc_000\Documents\GitHub\70-483\Properties\ParameterlessProperties\bin\Debug\ParameterlessProperties.exe
+C:\Users\alexc_000\Documents\GitHub\70-483\Properties\ParameterlessProperties\bin\Debug\ParameterlessProperties.pdb
+C:\Users\alexc_000\Documents\GitHub\70-483\Properties\ParameterlessProperties\obj\Debug\ParameterlessProperties.csprojResolveAssemblyReference.cache

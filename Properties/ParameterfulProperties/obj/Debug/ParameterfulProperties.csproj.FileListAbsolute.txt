@@ -1,0 +1,11 @@
+c:\users\alexc_000\documents\visual studio 2012\Properties\ParameterfulProperties\bin\Debug\ParameterfulProperties.exe.config
+c:\users\alexc_000\documents\visual studio 2012\Properties\ParameterfulProperties\bin\Debug\ParameterfulProperties.exe
+c:\users\alexc_000\documents\visual studio 2012\Properties\ParameterfulProperties\bin\Debug\ParameterfulProperties.pdb
+c:\users\alexc_000\documents\visual studio 2012\Properties\ParameterfulProperties\obj\Debug\ParameterfulProperties.exe
+c:\users\alexc_000\documents\visual studio 2012\Properties\ParameterfulProperties\obj\Debug\ParameterfulProperties.pdb
+C:\Users\alexc_000\Documents\GitHub\70-483\Properties\ParameterfulProperties\bin\Debug\ParameterfulProperties.exe.config
+C:\Users\alexc_000\Documents\GitHub\70-483\Properties\ParameterfulProperties\obj\Debug\ParameterfulProperties.exe
+C:\Users\alexc_000\Documents\GitHub\70-483\Properties\ParameterfulProperties\obj\Debug\ParameterfulProperties.pdb
+C:\Users\alexc_000\Documents\GitHub\70-483\Properties\ParameterfulProperties\bin\Debug\ParameterfulProperties.exe
+C:\Users\alexc_000\Documents\GitHub\70-483\Properties\ParameterfulProperties\bin\Debug\ParameterfulProperties.pdb
+C:\Users\alexc_000\Documents\GitHub\70-483\Properties\ParameterfulProperties\obj\Debug\ParameterfulProperties.csprojResolveAssemblyReference.cache
