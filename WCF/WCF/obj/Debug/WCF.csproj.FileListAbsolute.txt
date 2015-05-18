@@ -1,0 +1,6 @@
+C:\Users\alexc_000\Documents\GitHub\70-483\WCF\WCF\bin\Debug\WCF.exe.config
+C:\Users\alexc_000\Documents\GitHub\70-483\WCF\WCF\bin\Debug\WCF.exe
+C:\Users\alexc_000\Documents\GitHub\70-483\WCF\WCF\bin\Debug\WCF.pdb
+C:\Users\alexc_000\Documents\GitHub\70-483\WCF\WCF\obj\Debug\WCF.csprojResolveAssemblyReference.cache
+C:\Users\alexc_000\Documents\GitHub\70-483\WCF\WCF\obj\Debug\WCF.exe
+C:\Users\alexc_000\Documents\GitHub\70-483\WCF\WCF\obj\Debug\WCF.pdb
