@@ -11,7 +11,7 @@ namespace ParameterlessProperties
     /// you want to make sure you take advantage of data encapsulation
     /// and protection your fields by using properties
     /// </summary>
-    class GoodPerson
+    public class GoodPerson
     {
         // if all you are trying to do is encapsulate a backing field this
         // is convient syntax for that
